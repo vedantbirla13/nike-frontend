@@ -37,7 +37,7 @@ const Nav = () => {
         </div>
 
         <div
-          className="hidden max-lg:block cursor-pointer transition transform ease-in-out delay-150 duration-300 z-40 fixed right-10 top-5 "
+          className="hidden max-lg:block cursor-pointer transition transform ease-in-out delay-150 duration-300 z-40 fixed right-10 top-15 "
           onClick={toggleDrawer}
         >
           {isDrawerOpen ? (

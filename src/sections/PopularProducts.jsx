@@ -15,7 +15,7 @@ const PopularProducts = () => {
         </p>
       </div>
 
-      <div className="mt-16 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1">
+      <div className="mt-16 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 m-auto ">
         {products.map((product) => (
           <PopularProductCard
             imgUrl={product.imgURL}

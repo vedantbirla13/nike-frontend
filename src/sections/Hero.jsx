@@ -18,7 +18,7 @@ const Hero = () => {
         <p className="font-montserrat text-coral-red ">
           Our Summer Collections
         </p>
-        <h1 className="mt-10 font-palanquin lg:text-8xl max-sm:text-[60px] font-bold max-sm:leading-[82px] xl:whitespace-nowrap relative z-10 pr-10">
+        <h1 className="mt-10 font-palanquin lg:text-8xl sm:text-[60px] max-sm:text-[60px] font-bold max-sm:leading-[82px] xl:whitespace-nowrap relative z-10 pr-10">
           <span>The New Arrival</span>
           <br />
           <span className="text-coral-red inline-block mt-3">Nike</span> Shoes
